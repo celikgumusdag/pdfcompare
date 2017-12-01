@@ -8,17 +8,17 @@
     <artifactId>pdfcompare</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <dependencies>
-        <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>LATEST</version>
-        </dependency>
-        <dependency>
-            <groupId>de.redsix</groupId>
-            <artifactId>pdfcompare</artifactId>
-            <version>1.1.27</version>
-        </dependency>
-    </dependencies>
+    <!--<dependencies>-->
+        <!--<dependency>-->
+            <!--<groupId>org.testng</groupId>-->
+            <!--<artifactId>testng</artifactId>-->
+            <!--<version>6.13.1</version>-->
+        <!--</dependency>-->
+        <!--<dependency>-->
+            <!--<groupId>de.redsix</groupId>-->
+            <!--<artifactId>pdfcompare</artifactId>-->
+            <!--<version>1.1.27</version>-->
+        <!--</dependency>-->
+    <!--</dependencies>-->
 
 </project>
